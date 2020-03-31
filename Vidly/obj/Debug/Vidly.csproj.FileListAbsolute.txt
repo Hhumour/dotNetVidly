@@ -109,3 +109,4 @@ D:\cSharp\Vidly\Vidly\obj\Debug\Vidly.pdb
 D:\cSharp\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
 D:\cSharp\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
 D:\cSharp\Vidly\Vidly\obj\Debug\Vidly.Migrations.IsSubscribedToCustomer.resources
+D:\cSharp\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
