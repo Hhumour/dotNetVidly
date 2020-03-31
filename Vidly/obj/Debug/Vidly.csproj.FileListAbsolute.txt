@@ -111,3 +111,4 @@ D:\cSharp\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
 D:\cSharp\Vidly\Vidly\obj\Debug\Vidly.Migrations.IsSubscribedToCustomer.resources
 D:\cSharp\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
 D:\cSharp\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+D:\cSharp\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationToCustomerName.resources
